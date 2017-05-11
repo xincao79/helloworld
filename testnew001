@@ -4,3 +4,9 @@ Test
 Test in 2017/04/21
 
 Test the fork 2017/5/2
+int a=1,b=0;
+for(a<9)
+{
+b=a+8;
+a++;
+}
